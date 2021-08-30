@@ -13,7 +13,7 @@ asegúrese de demostrar su comprensión de las tecnologías centrales que utiliz
 5. Permitir que las entradas se actualicen
 6. Permitir que se eliminen las entradas
 7. Agrega un poco de estilo
-8. Cuando haya terminado, envíe su código y cree una solicitud de extracción.
+8. Cuando haya terminado, envíe su código y cree una nueva Pull Request.
 
 Se ha creado un esquema básico del proyecto para ayudarlo a comenzar rápidamente, pero siéntase libre de comenzar
 desde cero si tiene una configuración preferida.
