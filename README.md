@@ -1,13 +1,15 @@
 # React Developer Test
 
-## La tarea
+## Lo que debes realizar
 
 Cree una página que le permita al usuario seleccionar un país de una lista e ingresar su población.
 Esta tarea debería tomar de 2 a 3 horas, pero no se preocupe si no puede completar todos los elementos, solo
 asegúrese de demostrar su comprensión de las tecnologías centrales que utilizamos.
 
+# Lo que debes saber
+
 1. Bifurca este repositorio
-2. Obtenga la lista de países disponibles de la API del país en `src / api / country.js`
+2. Obtenga la lista de países disponibles de la API del país en `src/api/country.js`
 3. Cree un formulario que le permita al usuario seleccionar un país de un menú desplegable e ingresar su población.
 4. Ordena los países por población
 5. Permitir que las entradas se actualicen
