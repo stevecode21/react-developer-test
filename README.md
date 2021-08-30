@@ -1,29 +1,29 @@
 # React Developer Test
 
-## The Task
+## La tarea
 
-Create a page that allows the user to select a country from a list and enter their population. 
-This task should take 2-3 hours but don't worry if you aren't able to complete all items, just 
-make sure to show your understanding of the core technologies we use.
+Cree una página que le permita al usuario seleccionar un país de una lista e ingresar su población.
+Esta tarea debería tomar de 2 a 3 horas, pero no se preocupe si no puede completar todos los elementos, solo
+asegúrese de demostrar su comprensión de las tecnologías centrales que utilizamos.
 
-1. Fork this repo
-2. Get the list of available countries from the country API in `src/api/country.js`
-3. Create a form which allows the user to select a country from a dropdown and enter their population
-4. Sort the countries by population
-5. Allow entries to be updated
-6. Allow entries to be deleted
-7. Add some styling
-8. When you're done commit your code and create a pull request
+1. Bifurca este repositorio
+2. Obtenga la lista de países disponibles de la API del país en `src / api / country.js`
+3. Cree un formulario que le permita al usuario seleccionar un país de un menú desplegable e ingresar su población.
+4. Ordena los países por población
+5. Permitir que las entradas se actualicen
+6. Permitir que se eliminen las entradas
+7. Agrega un poco de estilo
+8. Cuando haya terminado, envíe su código y cree una solicitud de extracción.
 
-A basic project outline has been created to help you get started quickly but feel free to start 
-from scratch if you have a prefered setup.
+Se ha creado un esquema básico del proyecto para ayudarlo a comenzar rápidamente, pero siéntase libre de comenzar
+desde cero si tiene una configuración preferida.
 
-We predominantly use React, Redux, StyledComponents, Node.js, Webpack, Babel
+Utilizamos predominantemente React, Redux, StyledComponents, Node.js, Webpack, Babel
 
-Feel free to use the internet including Google and Stackoverflow to help with the task
+Siéntase libre de usar Internet, incluidos Google y Stackoverflow, para ayudar con la tarea
 
-## Any questions?
+## ¿Alguna pregunta?
 
-Please just ask.
+Por favor pregunte si tiene alguna duda.
 
-Good luck and thanks for taking the time to complete this task!
+¡Buena suerte y gracias por tomarse el tiempo para completar esta tarea!

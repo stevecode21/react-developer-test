@@ -2,7 +2,7 @@
   "name": "dev-test-react",
   "version": "1.0.0",
   "main": "src/index.jsx",
-  "author": "Ian Chadwick <ian@mizmoz.com>",
+  "author": "Open",
   "private": true,
   "scripts": {
     "go": "yarn install && yarn run start",
