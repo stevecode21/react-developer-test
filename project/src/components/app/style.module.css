@@ -1,0 +1,65 @@
+.container {
+    width: 53%;
+    padding: 7% 0;
+    min-width: 460px;
+
+}
+.header {
+    padding-bottom: 50px;
+}
+.headerTitle {
+    text-align: center;
+    font-size: 4em;
+    padding-bottom: 3%;
+
+}
+.headerText {
+    text-align: center;
+    font-size: 1.3em;
+    padding-bottom: 40px;
+}
+.section {
+    width: 75%;
+    display: flex;
+    font-size: 1.3em;
+    border-bottom: 1px solid gray;
+    margin-bottom: 40px;
+    white-space: nowrap;
+}
+.newAddress, .directions {
+    padding: 6px 15px;
+    width: 50%;
+    text-align: center;
+}
+.newDirection{
+    border-right: 1px solid;
+}
+.selected {
+    background-color: #00000030;
+}
+.errorMessage {
+    width: 80%;
+    text-align: center;
+    background-color: #ff000061;
+    border-radius: 6px;
+    padding: 9px 0;
+    margin-bottom: 12px;
+    font-size: 0.8em;
+    font-weight: 400;
+}
+@media (max-width: 1200px) {
+    .container {
+        width: 80%;
+        font-size: 0.9em;
+    }
+}
+@media (max-width: 800px) {
+    .section {
+        font-size: 1em;
+    }
+}
+@media (max-width: 575px) {
+    .section, .errorMessage {
+        width: 100%;
+    }
+}

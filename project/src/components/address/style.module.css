@@ -1,0 +1,54 @@
+.main {
+    width: 80%;
+}
+.header {
+    justify-content: space-around;
+    background-color: #0e0e0e5e;
+    padding: 4px 0;
+    font-size: 0.9em;
+}
+.header p {
+    font-weight: 400;
+}
+.wrapperList {
+    align-items: center;
+    justify-content: space-between;
+    text-transform: lowercase;
+    border-bottom: 1px solid black;
+    padding: 5px 30px;
+}
+.wrapperList p {
+    width: 12%;
+    text-align: center;
+}
+.wrapperList div {
+    width: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.wrapperList div > div {
+    width: 30%;
+    margin-right: 12px;
+}
+.wrapperList div div svg{
+    width: 100%;
+    height: 100%;
+}
+.selected {
+    background-color: #88ff884f;
+}
+.addressNotFound {
+    text-align: center;
+    background-color: #ff000061;
+    border-radius: 6px;
+    padding: 9px 0;
+    margin-top: 12px;
+    font-size: 0.8em;
+    font-weight: 400;
+}
+@media (max-width: 800px) {
+    .main {
+        width: 100%;
+    }
+}
